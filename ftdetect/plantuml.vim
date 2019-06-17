@@ -3,5 +3,5 @@
 " Maintainer: Valeriy Kireev
 " Latest Revision: 17 May 2019
 
-au BufNewFile *.plantuml :call PlantUmlWrapper()
+au BufRead,BufNewFile *.plantuml set filetype=plantuml
 
