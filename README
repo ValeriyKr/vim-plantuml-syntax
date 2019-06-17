@@ -1,0 +1,14 @@
+This repository contains a couple of files, which describes to vim, how
+to highlight PlantUML source files.
+
+The syntax file was written during my work with PlantUML. There was no aim
+to cover all PlantUML keywords, syntax constructions, operators, etc. The
+only goal was to make *my* work with PlantUML mere convenient.
+
+Thus, if *you* have something to improve -- contributions are welcome. But i
+will not add anything new by myself until *i* use the feature.
+
+And, sure, it's free for everything you want to do. Anybody can use it,
+distribute and modify without any restrictions.
+
+                                                         -- Valeriy Kireev
